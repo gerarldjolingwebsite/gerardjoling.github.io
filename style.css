@@ -1,0 +1,17 @@
+h1 {color: orange;
+font-family: fantasy ;}
+h2 {color: orange;
+    font-family: fantasy ;}
+body {background-color: antiquewhite;
+    background-image: url("img/prive-gerard-joling-michael-graste-goud-155.jpg");
+background-size:cover;}
+h4 {color: orange;
+    font-family: fantasy ;}
+#p1 {background-color: rgba(248, 210, 139, 0.995);
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+#p3 {background-color: rgba(248, 210, 139, 0.995);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+#p2 {background-color: rgb(247, 239, 228);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;} 
+#p4 {background-color: rgb(247, 239, 228);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;} 
